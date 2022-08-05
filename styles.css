@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+
+.colorSizeBtn {
+	background-color: yellow;
+	height: 100px;
+	width: 200px;
+	box-sizing: border-box;
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+}
