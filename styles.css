@@ -46,3 +46,27 @@ img {
 	padding: 10px;
 	margin: 10px;
 }
+
+.riversidePhoto {
+	max-width: 500px;
+}
+
+.restaurantBtn {
+	background-color: orange;
+	height: 100px;
+	width: 200px;
+	box-sizing: border-box;
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+}
+
+.barBtn {
+	background-color: orange;
+	height: 100px;
+	width: 200px;
+	box-sizing: border-box;
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+}
